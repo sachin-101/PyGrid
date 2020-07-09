@@ -5,6 +5,7 @@ Flask==1.1.1
 Flask-Cors==3.0.7
 Flask-Executor==0.9.3
 Flask-Sockets==0.2.1
+flask_login
 flask_migrate
 flask_sqlalchemy
 flask_testing
@@ -15,8 +16,10 @@ Jinja2==2.10.1
 jwt
 MarkupSafe==1.1.1
 psycopg2-binary
+redis
 requests==2.22.0
+requests==2.22.0
+requests_toolbelt
 requests_toolbelt
 syft==0.2.6
 Werkzeug==0.15.5
-
